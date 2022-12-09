@@ -1,0 +1,21 @@
+
+.bigSky {
+    background-image: url(./image/060407a0003.jpg);
+    max-height: 100vh;
+    max-width: 100vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.myNav {
+    background:transparent;
+}
+
+.myText {
+    color: antiquewhite;
+}
+.myImg {
+    width: 200;
+    height: 200;
+}
