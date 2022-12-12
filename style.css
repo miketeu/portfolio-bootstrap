@@ -1,21 +1,36 @@
+:root {
+    --bg-color: Blue;
+    --bg-img: linear-gradient(to right top. #711a7f. #b7176a. #de474c. #e9812f. #daba2d);
+    --splash-txt:  color: rgb(76, 41, 16);
+    --transparent-white: #ffffff;
+}
 
-.bigSky {
-    background-image: url(./image/060407a0003.jpg);
-    max-height: 100vh;
-    max-width: 100vw;
+
+body {
+    background-color: var(--bg-color);
+}
+
+.myIframe {
+   text-align: center;
+    width: 100%;
+    height: 500px;
+}
+
+.myBtn {
+   background-color: lightgrey;
+  
+}
+.myBg {
+    background-image: url(/image/060407a0003.jpg);
+    background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
 }
-
-.myNav {
-    background:transparent;
+.mySplashTxt {
+   color: var(--splash-txt);
+    text-shadow: 10px 10px 10px 10px whitesmoke;
+    font-weight: bold;
 }
-
-.myText {
-    color: antiquewhite;
-}
-.myImg {
-    width: 200;
-    height: 200;
+.myCardBg {
+    background-color: aquamarine;
 }
