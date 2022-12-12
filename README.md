@@ -1,3 +1,3 @@
 # A Bootstrap Portfolio
 ## This portfolio built to demonstrate how websites can be constructed quickly and easily using the Bootstrap framework.
-### Thhe framwork being used is Bootstrap 4.3.1
+### The framwork being used is Bootstrap 4.3.1
