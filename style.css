@@ -17,7 +17,7 @@ body {
 }
 
 .myBtn {
-   background-color: lightgrey;
+   background-color: rgb(240, 255, 32);
   
 }
 .myBg {
@@ -31,10 +31,11 @@ body {
     text-shadow: 10px 10px 10px 10px whitesmoke;
     font-weight: bold;
 }
-.myCardBg {
-    background-color: aquamarine;
-}
+
 .myPlaceholder {
     width: 200px;
     height: 300px;
+}
+.generalBg {
+    background-color:bisque;
 }
