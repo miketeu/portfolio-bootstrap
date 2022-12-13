@@ -24,7 +24,7 @@ body {
   
 }
 .myBg {
-    background-image: url(/image/060407a0003.jpg);
+    background-image: url(./image/060407a0003.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
