@@ -1,8 +1,10 @@
 :root {
-    --bg-color: Blue;
-    --bg-img: linear-gradient(to right top. #711a7f. #b7176a. #de474c. #e9812f. #daba2d);
+
+    --bg-color: bisque;
+
     --splash-txt:  color: rgb(76, 41, 16);
-    --transparent-white: #ffffff;
+   
+
 }
 
 
@@ -12,8 +14,9 @@ body {
 
 .myIframe {
    text-align: center;
-    width: 100%;
+    width: 80%;
     height: 500px;
+    
 }
 
 .myBtn {
@@ -33,9 +36,9 @@ body {
 }
 
 .myPlaceholder {
-    width: 200px;
+    width: 150px;
     height: 300px;
 }
 .generalBg {
-    background-color:bisque;
+    background-color: var(--bg-color);
 }
